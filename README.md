@@ -114,9 +114,9 @@ The following results were observed during model experiments.
 
 | Experiment | Validation Accuracy | Macro F1 |
 |---|---:|---:|
-| Baseline — 64 neurons | 0.5274 | **0.4015** |
-| Updated — 128, 64 neurons | **0.5762** | 0.3916 |
-| Fully balanced — 128, 64 neurons | 0.4454 | 0.3818 |
+| Baseline   64 neurons | 0.5274 | **0.4015** |
+| Updated   128, 64 neurons | **0.5762** | 0.3916 |
+| Fully balanced   128, 64 neurons | 0.4454 | 0.3818 |
 
 *These are recorded intermediate validation results. They are not final test-set metrics.*
 
